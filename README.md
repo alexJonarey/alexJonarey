@@ -48,7 +48,11 @@ Aunque aún no tengo una especialidad definida, me adapto fácilmente a distinto
 ### 🌱 Actualmente aprendiendo...
 - ⚙️ Desarrollo Backend con PHP y .NET  
 - 🧠 Lógica de programación avanzada y algoritmos  
-- ☁️ Bases de datos y conexión con servidores web  
+- ☁️ Bases de datos y conexión con servidores web
+- ✅ **Diseño Web con Figma** – Enfoque en prototipado, componentes y diseño responsivo.  
+- ✅ **Adobe Express** – Creación de contenido visual y recursos gráficos para proyectos web.  
+- 📘 **Introducción al Desarrollo Web (HTML, CSS, JavaScript)** – En curso.  
+- 📘 **Diseño UI/UX para Desarrolladores** – En curso.  
 
 ---
 
