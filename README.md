@@ -21,7 +21,7 @@ Aunque aún no tengo una especialidad definida, me adapto fácilmente a distinto
 ### 🛠️ Tecnologías que utilizo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,java,python,dotnet,git,github" alt="Tecnologías" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,javascript,java,python,dotnet,figma,git,github" alt="Tecnologías" />
 </p>
 
 <p align="center">
@@ -31,7 +31,24 @@ Aunque aún no tengo una especialidad definida, me adapto fácilmente a distinto
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe%20Express-FF61F6?style=for-the-badge&logo=adobeexpress&logoColor=white" />
 </p>
+
+---
+
+### 📚 Formación y cursos
+
+💡 Siempre busco aprender algo nuevo y fortalecer mis habilidades.  
+Algunos cursos y certificaciones que he completado o estoy realizando:
+
+- ✅ **Diseño Web con Figma** – Enfoque en prototipado, componentes y diseño responsivo.  
+- ✅ **Adobe Express** – Creación de contenido visual y recursos gráficos para proyectos web.  
+- 📘 **Diseño y Desarrollo de Sitios Web con WordPress** – *En curso.*  
+- 📘 **Introducción al Desarrollo Web (HTML, CSS, JavaScript)** – *En curso.*  
+- 📘 **Diseño UI/UX para Desarrolladores** – *En curso.*  
+
+> _“El aprendizaje constante es la clave para mantenerse relevante en el mundo de la tecnología.”_
 
 ---
 
@@ -48,12 +65,8 @@ Aunque aún no tengo una especialidad definida, me adapto fácilmente a distinto
 ### 🌱 Actualmente aprendiendo...
 - ⚙️ Desarrollo Backend con PHP y .NET  
 - 🧠 Lógica de programación avanzada y algoritmos  
-- ☁️ Bases de datos y conexión con servidores web
-- ✅ **Diseño Web con Figma** – Enfoque en prototipado, componentes y diseño responsivo.  
-- ✅ **Adobe Express** – Creación de contenido visual y recursos gráficos para proyectos web.
-- 📘 **Diseño y Desarrollo de Sitios Web con WordPress** – *En curso.* 
-- 📘 **Introducción al Desarrollo Web (HTML, CSS, JavaScript)** – En curso.  
-- 📘 **Diseño UI/UX para Desarrolladores** – En curso.  
+- ☁️ Bases de datos y conexión con servidores web  
+- 🎨 Diseño y optimización de sitios WordPress con Figma  
 
 ---
 
@@ -74,3 +87,4 @@ Aunque aún no tengo una especialidad definida, me adapto fácilmente a distinto
 <p align="center">
   🚀 Siempre listo para aprender, colaborar y crecer en el mundo del desarrollo.
 </p>
+
