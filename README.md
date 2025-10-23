@@ -52,13 +52,7 @@ Algunos cursos y certificaciones que he completado o estoy realizando:
 
 ---
 
-### 📊 Mis estadísticas en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlexJonathanReyesMartinez&show_icons=true&theme=tokyonight" alt="Estadísticas de GitHub" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexJonathanReyesMartinez&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
-</p>
 
 ---
 
