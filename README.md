@@ -50,7 +50,8 @@ Aunque aún no tengo una especialidad definida, me adapto fácilmente a distinto
 - 🧠 Lógica de programación avanzada y algoritmos  
 - ☁️ Bases de datos y conexión con servidores web
 - ✅ **Diseño Web con Figma** – Enfoque en prototipado, componentes y diseño responsivo.  
-- ✅ **Adobe Express** – Creación de contenido visual y recursos gráficos para proyectos web.  
+- ✅ **Adobe Express** – Creación de contenido visual y recursos gráficos para proyectos web.
+- 📘 **Diseño y Desarrollo de Sitios Web con WordPress** – *En curso.* 
 - 📘 **Introducción al Desarrollo Web (HTML, CSS, JavaScript)** – En curso.  
 - 📘 **Diseño UI/UX para Desarrolladores** – En curso.  
 
